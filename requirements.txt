@@ -1,0 +1,7 @@
+# Sistema de Seguridad Facial — Dependencias
+# Instalar con: pip install -r requirements.txt
+
+insightface>=0.7.3
+opencv-python>=4.8.0
+numpy>=1.24.0
+onnxruntime>=1.16.0      # Backend de inferencia para InsightFace
